@@ -1,0 +1,306 @@
+{
+    "status": "ok",
+    "quizQuestions": [
+        {
+            "question": "Xerxes THE GREAT was king of Persia from 486-465 B.C. He was also known by the Hebrew name Ahasuerus (a-haz-u-e'rus). Who was his first queen?",
+            "answers": {
+                "a": "Bathsheba",
+                "b": "Tahpenes",
+                "c": "The Queen of Sheba",
+                "d": "Vashti"
+            },
+            "correctAnswer": "Vashti"
+        },
+        {
+            "question": "In the third year of his reign, Xerxes became very angry with the Queen. Why?",
+            "answers": {
+                "a": "She instigated a rebellion in the harem",
+                "b": "She refused to worship the Persian gods",
+                "c": "She refused to exhibit herself to his male guests",
+                "d": "She refused to bow to him"
+            },
+            "correctAnswer": "She refused to exhibit herself to his male guests"
+        },
+        {
+            "question": "All agreed that the queen must be punished. What bad thing would happen if the queen got away with her crime?",
+            "answers": {
+                "a": "The women of the kingdom, following her example would refuse to obey their husbands",
+                "b": "The persian gods would be offended",
+                "c": "The noblemen of the kingdom would rebel against Xerxes",
+                "d": "The king's other wives, following her example would refuse to obey the king"
+            },
+            "correctAnswer": "The women of the kingdom, following her example would refuse to obey their husbands"
+        },
+        {
+            "question": "The queen was forever banned from the king's presence, and a search was begun for a new queen. Why did Cerxes choose Esther as his queen?",
+            "answers": {
+                "a": "Esther's older cousin, Mordecai was very wealthy and had gained the king's favour",
+                "b": "The king's advisors consulted the stars and found that Esther was destined to be queen",
+                "c": "The king ordered all the most beautiful women of the kingdom to be brought to his harem so he could choose a new queen. Esther was his favorite",
+                "d": "The king saw Esther bathing one day while he was on the roof of the palace, and ordered her to be brought to his harem"
+            },
+            "correctAnswer": "The king ordered all the most beautiful women of the kingdom to be brought to his harem so he could choose a new queen. Esther was his favorite"
+        },
+        {
+            "question": "What secret did Esther keep from the king?",
+            "answers": {
+                "a": "She was already married",
+                "b": "She was in love with Mordecai",
+                "c": "She was Jewish",
+                "d": "She was a Philistine"
+            },
+            "correctAnswer": "She was Jewish"
+        },
+        {
+            "question": "Some time later, Xerxes promoted Haman, one of his nobles, to the highest position in the land. Haman maneuvered the king into issuing an edict that all the Jews in the kingdom will be killed. Why did Haman want to kill the Jews?",
+            "answers": {
+                "a": "Haman was a Philistine, and they always hated the Jews.",
+                "b": "Mordecai refused to pay taxes to him",
+                "c": "Mordecai refused to kneel down before him",
+                "d": "The Jews had opposed Haman's appointment"
+            },
+            "correctAnswer": "Mordecai refused to kneel down before him"
+        },
+        {
+            "question": "How did Esther thwart Haman's plot?",
+            "answers": {
+                "a": "She skillfully convinced the king of Haman's evil nature",
+                "b": "She bribed Haman to abandon his plot",
+                "c": "She convinced Hamn;s wife to oppose the plot",
+                "d": "She convinced all the women of the harem to petition the king against the plot"
+            },
+            "correctAnswer": "She skillfully convinced the king of Haman's evil nature"
+        },
+        {
+            "question": "Once the king had issued the edict against the Jews, it could not be ignored. How was Esther able to prevent the massacre of the Jews?",
+            "answers": {
+                "a": "She convinced the king to revoke the edict",
+                "b": "She convinced the king to sign another edict allowing the Jews to defend themselves",
+                "c": "She spread word to the Jews to go into hiding until the soldiers had passed by",
+                "d": "She convinced the army commanders not to enforce the edict"
+            },
+            "correctAnswer": "She convinced the king to revoke the edict"
+        },
+        {
+            "question": "Which Jewich holiday commemorates Esther's heroic acts?",
+            "answers": {
+                "a": "Hanukkah",
+                "b": "Purim",
+                "c": "Rosh Hashanah",
+                "d": "Yom Kippur"
+            },
+            "correctAnswer": "Purim"
+        },
+        {
+            "question": "Some Christians have said the book of Esther should not be in the Bible. Why?",
+            "answers": {
+                "a": "It was not part of the original Jewish Scriptures",
+                "b": "It glorifies the pagan king Xerxes",
+                "c": "It tends to glorify the pagan gods of the Persians",
+                "d": "It never mentions God's name"
+            },
+            "correctAnswer": "It glorifies the pagan king Xerxes"
+        },
+        {
+            "question": "What relation was Esther to Mordecai?",
+            "answers": {
+                "a": "Sister",
+                "b": "Cousin",
+                "c": "Daughter",
+                "d": "Niece"
+            },
+            "correctAnswer": "Niece"
+        },
+        {
+            "question": "Who sought to destroy all the Jews that were throughout the whole kingdom Ahasuerus?",
+            "answers": {
+                "a": "Bigthan",
+                "b": "Haman",
+                "c": "Hegei",
+                "d": "Zeresh"
+            },
+            "correctAnswer": "Haman"
+        },
+        {
+            "question": "Who asked 'Who knows whether you are come to the kingdom for such a time as this?'",
+            "answers": {
+                "a": "Ahasuerus",
+                "b": "Haman",
+                "c": "Hatach",
+                "d": "Mordecai"
+            },
+            "correctAnswer": "Mordecai"
+        },
+        {
+            "question": "Over how many provinces did Ahasuerus reign?",
+            "answers": {
+                "a": 12,
+                "b": 24,
+                "c": 127,
+                "d": 193
+            },
+            "correctAnswer": 127
+        },
+        {
+            "question": "Where was the throne of king Ahasuerus",
+            "answers": {
+                "a": "Shushan",
+                "b": "Babylon",
+                "c": "Assyria",
+                "d": "Syria"
+            },
+            "correctAnswer": "Shushan"
+        },
+        {
+            "question": "Who had to lead Mordecai around the city on the king's horse proclaiming that this is the man the king delights to honor?",
+            "answers": {
+                "a": "Haman",
+                "b": "Hegei",
+                "c": "Zeresh",
+                "d": "The princes of Shushan"
+            },
+            "correctAnswer": "Haman"
+        },
+        {
+            "question": "What were the days called which were to ba an annual celebration of this deliverance of the Jews from Haman?",
+            "answers": {
+                "a": "Feast of the first fruits",
+                "b": "Feast of Tabernacles",
+                "c": "Purim",
+                "d": "Unleavened bread"
+            },
+            "correctAnswer": "Purim"
+        },
+        {
+            "question": "What happened the night before the banquet for king Ahasuerus and Haman?",
+            "answers": {
+                "a": "Esther told the king about Haman's plot",
+                "b": "The king could not sleep",
+                "c": "The king had a dream",
+                "d": "The king got sick"
+            },
+            "correctAnswer": "The king could not sleep"
+        },
+        {
+            "question": "What did Haman cause to be made?",
+            "answers": {
+                "a": "A banquet table for Ahasuerus and Esther",
+                "b": "A gallows to hang Mordecai",
+                "c": "A prison for Mordecai",
+                "d": "A stable for his horses"
+            },
+            "correctAnswer": "A gallows to hang Mordecai"
+        },
+        {
+            "question": "Why was Haman full of indignation?",
+            "answers": {
+                "a": "His wife was not invited to the banquet",
+                "b": "He was not given more advance notice",
+                "c": "Mordecai did not stand up or move for him",
+                "d": "He was not promoted"
+            },
+            "correctAnswer": "Mordecai did not stand up or move for him"
+        },
+        {
+            "question": "How large of a request was the king willing to grant to Esther?",
+            "answers": {
+                "a": "Anything she asked",
+                "b": "A special house built for her",
+                "c": "A year's time to visit her people",
+                "d": "Up to half of his kingdom"
+            },
+            "correctAnswer": "Up to half of his kingdom"
+        },
+        {
+            "question": "What did king Ahasuerus do when Esther came before him uninvited?",
+            "answers": {
+                "a": "Held out his hand",
+                "b": "Held out the golden scepter",
+                "c": "Told he rto leave for thirty days",
+                "d": "Ordered for her to be kept in jail"
+            },
+            "correctAnswer": "Held out the golden scepter"
+        },
+        {
+            "question": "Who sought to lay hands on the king",
+            "answers": {
+                "a": "Bigthana",
+                "b": "Hegei",
+                "c": "Teresh",
+                "d": "A & C"
+            },
+            "correctAnswer": "A & C"
+        },
+        {
+            "question": "Who revealed a plot against the king and made it known to him?",
+            "answers": {
+                "a": "Zeresh",
+                "b": "Haman",
+                "c": "Mordecai",
+                "d": "Hadassah"
+            },
+            "correctAnswer": "Mordecai"
+        },
+        {
+            "question": "What did Esther ask Mordecai and the Jews to do?",
+            "answers": {
+                "a": "Fast and pray",
+                "b": "Offer up a sacrifice",
+                "c": "Go into hiding",
+                "d": "Defnd themselves"
+            },
+            "correctAnswer": "Fast and pray"
+        },
+        {
+            "question": "What did Esther request of the king?",
+            "answers": {
+                "a": "Half of his kingdom",
+                "b": "A special house built for her",
+                "c": "That the king and Haman come to a banquet she had prepared",
+                "d": "Some time to visit her people"
+            },
+            "correctAnswer": "That the king and Haman come to a banquet she had prepared"
+        },
+        {
+            "question": "What did Esther reveal at the banquet?",
+            "answers": {
+                "a": "She and her people were to be destroyed and slain",
+                "b": "The adversary and enemy is this wicked Haman",
+                "c": "That Haman was planning to hang Mordecai",
+                "d": "All of the above"
+            },
+            "correctAnswer": "The adversary and enemy is this wicked Haman"
+        },
+        {
+            "question": "How did Haman die?",
+            "answers": {
+                "a": "By the sword of Ahasuerus",
+                "b": "Hung to death on the gallows that he prepared for Mordecai",
+                "c": "Eaten up by worms",
+                "d": "The Jews killed him"
+            },
+            "correctAnswer": "Hung to death on the gallows that he prepared for Mordecai"
+        },
+        {
+            "question": "What did Ahasuerus give Mordecai",
+            "answers": {
+                "a": "His golden scepter",
+                "b": "The house of Haman",
+                "c": "The king's ring which he had taken from Haman",
+                "d": "A & C"
+            },
+            "correctAnswer": "The king's ring which he had taken from Haman"
+        },
+        {
+            "question": "What did Esther request when she came again to Ahasuerus?",
+            "answers": {
+                "a": "That Mordecai be promoted",
+                "b": "That letters should be sent throughout the king's provinces to reverse the letters written by Haman",
+                "c": "A palace for herself",
+                "d": "That Haman's wife be hanged"
+            },
+            "correctAnswer": "That letters should be sent throughout the king's provinces to reverse the letters written by Haman"
+        }
+    ]
+
+}
