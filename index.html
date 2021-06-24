@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://html5-templates.com/" />
+    <title>Books Inventory</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+
+<body>
+    <!-- Page Content -->
+    <div class="container">
+        <!-- Marketing Icons Section -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">
+                    Books Inventory
+                </h1>
+            </div>
+        </div>
+        <!-- Call to Action Section -->
+        <div class="well">
+            <div class="row">
+                <div class="col-md-8">
+                    <p>Fill the form to add items!</p>
+                </div>
+                <div class="col-md-4">
+                    <button class="btn btn-lg btn-primary btn-block" id="form-toggle">Add New</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-12" id="form-div" style="display:none;">
+            <form id="contactForm">
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>ID:</label>
+                        <input type="text" class="form-control" id="book-id" placeholder="example: 978-92-95055-02-5">
+                    </div>
+                </div>
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Title:</label>
+                        <input type="text" class="form-control" id="book-title">
+                    </div>
+                </div>
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Author:</label>
+                        <input type="text" class="form-control" id="book-author">
+                    </div>
+                </div>
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Price:</label>
+                        <input type="number" class="form-control" id="book-price">
+                    </div>
+                </div>
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Quantity:</label>
+                        <input type="number" class="form-control" id="book-quantity">
+                    </div>
+                </div>
+                <div class="control-group form-group">  
+                    <div class="controls">
+                        <label>Summary:</label>
+                        <textarea rows="5" cols="100" class="form-control" id="book-summary" maxlength="500" style="resize:none"></textarea>
+                    </div>
+                </div>
+                <button type="submit" id="submit" class="btn btn-primary">Submit</button>
+                <button type="reset" class="btn btn-primary">Clear Form</button>
+            </form>
+        </div>
+        <!-- /.row -->
+
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="page-header">Books</h2>
+            </div>
+		</div>
+
+		<div id="books-div" class="card-columns"></div>
+        <hr>
+
+        <!-- Modal -->
+        <div class="modal fade" id="updatebook" tabindex="-1" role="dialog" aria-labelledby="exampleModalScrollableTitle" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-scrollable" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h2 class="modal-title" id="exampleModalScrollableTitle">Edit Item</h2>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <form id="contactForm">
+                            <div class="control-group form-group">
+                                <div class="controls">
+                                    <label>ID:</label>
+                                    <input type="text" class="form-control" id="update-book-id" readonly>
+                                </div>
+                            </div>
+                            <div class="control-group form-group">
+                                <div class="controls">
+                                    <label>Title:</label>
+                                    <input type="text" class="form-control" id="update-book-title">
+                                </div>
+                            </div>
+                            <div class="control-group form-group">
+                                <div class="controls">
+                                    <label>Author:</label>
+                                    <input type="text" class="form-control" id="update-book-author">
+                                </div>
+                            </div>
+                            <div class="control-group form-group">
+                                <div class="controls">
+                                    <label>Price:</label>
+                                    <input type="number" class="form-control" id="update-book-price">
+                                </div>
+                            </div>
+                            <div class="control-group form-group">
+                                <div class="controls">
+                                    <label>Quantity:</label>
+                                    <input type="number" class="form-control" id="update-book-quantity">
+                                </div>
+                            </div>
+                            <div class="control-group form-group">  
+                                <div class="controls">
+                                    <label>Summary:</label>
+                                    <textarea rows="5" cols="100" class="form-control" id="update-book-summary" maxlength="500" style="resize:none"></textarea>
+                                </div>
+                            </div>
+                            <button type="submit" id="update-submit" class="btn btn-primary">Update</button>
+                        </form>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; PHP Tutorial, 2021 | <a href="https://lixy.tech/" target="_blank" rel="nofollow">Lixy Tech</a></p>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <!-- /.container -->
+
+    <script src="script.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
