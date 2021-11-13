@@ -71,9 +71,11 @@ ANSWER is (a) A mosquito, especially a large swamp mosquito
 ANSWER is (b) A medium to dark greenish shade of blue
 
 11. What does "sanguivorous" mean?
-(a) Feeding on blood, as a bat or insect.
+(a) Feeding on blood, as a bat or insect
 (b) Vibratory, shaking, or quivering
 (c) Reddish; ruddy
+
+ANSWER is (a) Feeding on blood, as a bat or insect
 
 12. What does "bellwether" mean?
 (a) A person who is employed, especially by a hotel to carry guests' luggage, run errands, etc.
@@ -83,12 +85,12 @@ ANSWER is (b) A medium to dark greenish shade of blue
 ANSWER is (c) A person or thing that shows the existence or direction of a trend.
 
 13. Which is the correct spelling for the word meaning "a friendly relationship"?
-(a) rappore
-(b) rapporteur
-(c) wrappeur
-(d) rapport
+(a) Rappore
+(b) Rapporteur
+(c) Wrappeur
+(d) Rapport
 
-ANSWER is (d) rapport
+ANSWER is (d) Rapport
 
 14. Which is the correct spelling?
 (a) Miscelaneous
